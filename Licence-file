@@ -1,0 +1,6 @@
+Hi Git
+Things learn in the git
+1.create file using command
+2.add new file using command git add file-name and also with git add*
+3.commit the changes by adding the command as : git commit -m "changes"
+4.we can push the modified one by : git push -u origin main
